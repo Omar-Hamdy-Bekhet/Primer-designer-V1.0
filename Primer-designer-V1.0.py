@@ -1,3 +1,13 @@
+# Welcome to my code that took 96 hours to be made (:
+# Any User Should install these libraries before executing other Cells
+
+!pip install py3Dmol
+!pip install rdkit
+!pip install biopython
+# Put these Commands in the first cell
+#-------------------------------------
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
